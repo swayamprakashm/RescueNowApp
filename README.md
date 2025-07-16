@@ -80,7 +80,8 @@ Make sure the app requests and grants the following permissions:
 
 ## 👨‍💻 Developed By
 
-* M. Swayam Prakash 
+**M. Swayam Prakash**
+
 Github: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
