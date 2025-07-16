@@ -65,7 +65,7 @@ Make sure the app requests and grants the following permissions:
 ---
 
 ## 📷 Screenshots
-![RescueNowApp](Images/ic_app_logo.webp)![Applogo](Images/Output7.jpg)
+![RescueNowApp](Images/ic_app_logo.webp)
 ![App HomeScreen](Images/Output5.jpg)
 ![Dailer 101](Images/Output1.jpg)
 ![Dailer 100](Images/Output2.jpg)
