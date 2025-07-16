@@ -1,11 +1,11 @@
 
-# 🚨 RescueNowApp
+# RescueNowApp
 
 **RescueNowApp** is an Android emergency alert application designed especially for rural and urban users to send quick emergency alerts with location via SMS and Firebase. It allows users to trigger emergency actions using buttons or volume keys and helps notify Police, Ambulance, Fire, or a saved contact person.
 
 ---
 
-## 📱 Features
+## Features
 
 - 📍 Real-time GPS Location Sharing
 - 🔘 Emergency Triggers for:
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - Kotlin
 - Android Studio (AppCompat + XML UI)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔒 Permissions Required
+## Permissions Required
 
 Make sure the app requests and grants the following permissions:
 
@@ -64,26 +64,26 @@ Make sure the app requests and grants the following permissions:
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-### 🧾 App Logo:
+### App Logo:
 <img src="Images/ic_app_logo.webp" alt="RescueNowApp" width="120"/>
 
-### 🏠 App Home Screen:
+### App Home Screen:
 <img src="Images/Output5.jpg" alt="App HomeScreen" width="350"/>
 
-### 📞 Dialer Screens via App (101, 100, 108):
+### Dialer Screens via App (101, 100, 108):
 <img src="Images/Output1.jpg" alt="Dialer 101" width="300"/> <img src="Images/Output2.jpg" alt="Dialer 100" width="300"/> <img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
 
-### 💬 App Message Output:
+### App Message Output:
 <img src="Images/Output3.png" alt="Dialer Message" width="350"/>
 
-### 🗺️ App Map Layout:
+### App Map Layout:
 <img src="Images/Output6.jpg" alt="Map Output" width="350"/>
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 * Emergency alert history
 * Voice command activation
@@ -92,7 +92,7 @@ Make sure the app requests and grants the following permissions:
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 **M. Swayam Prakash**
 
@@ -100,6 +100,6 @@ Github: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. 
