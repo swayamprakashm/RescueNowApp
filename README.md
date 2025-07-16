@@ -73,7 +73,7 @@ Make sure the app requests and grants the following permissions:
 <img src="Images/Output5.jpg" alt="App HomeScreen" width="350"/>
 
 ### 📞 App Dialer Screens (101, 100, 108):
-<img src="Images/Output1.jpg" alt="Dialer 101" width="300"/><img src="Images/Output2.jpg" alt="Dialer 100" width="300"/><img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
+<img src="Images/Output1.jpg" alt="Dialer 101" width="300"/> <img src="Images/Output2.jpg" alt="Dialer 100" width="300"/> <img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
 
 ### 💬 App Message Output:
 <img src="Images/Output3.png" alt="Dialer Message" width="350"/>
