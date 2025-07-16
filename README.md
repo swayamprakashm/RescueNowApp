@@ -80,12 +80,7 @@ Make sure the app requests and grants the following permissions:
 
 ## 👨‍💻 Developed By
 
-**Team RescueNow**
-
-* K. Sravanthi (24AG5A0507)
-* K. Akshaya (24AG5A0509)
-* M. Swayam Prakash (24AG5A0510)
-
+* M. Swayam Prakash 
 ---
 
 ## 📜 License
