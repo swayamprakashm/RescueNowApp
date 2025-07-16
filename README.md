@@ -65,21 +65,23 @@ Make sure the app requests and grants the following permissions:
 ---
 
 ## 📷 Screenshots
-App Logo:
-![RescueNowApp](Images/ic_app_logo.webp)
-App Home Screen:
-![App HomeScreen](Images/Output5.jpg)
-App Dailer Screen Of 101,100 and 108
-![Dailer 101](Images/Output1.jpg)
-![Dailer 100](Images/Output2.jpg)
-![Dailer 108](Images/Output4.jpg)
-App Message Output:
-![Dailer Message](Images/Output3.jpg)
-App Map layout:
-![Map Output](Images/Output6.jpg)
 
+### 🧾 App Logo:
+<img src="Images/ic_app_logo.webp" alt="RescueNowApp" width="120"/>
 
+### 🏠 App Home Screen:
+<img src="Images/Output5.jpg" alt="App HomeScreen" width="350"/>
 
+### 📞 App Dialer Screens (101, 100, 108):
+<img src="Images/Output1.jpg" alt="Dialer 101" width="300"/>
+<img src="Images/Output2.jpg" alt="Dialer 100" width="300"/>
+<img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
+
+### 💬 App Message Output:
+<img src="Images/Output3.jpg" alt="Dialer Message" width="350"/>
+
+### 🗺️ App Map Layout:
+<img src="Images/Output6.jpg" alt="Map Output" width="350"/>
 
 ---
 
