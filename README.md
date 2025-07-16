@@ -91,5 +91,3 @@ Make sure the app requests and grants the following permissions:
 ## 📜 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-```
