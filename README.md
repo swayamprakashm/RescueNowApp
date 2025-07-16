@@ -67,6 +67,8 @@ Make sure the app requests and grants the following permissions:
 ## 📷 Screenshots
 [RescueNowApp](Images/ic_app_logo.webp)
 
+[RescueNowApp](Images/Output1.jpg)
+[RescueNowApp](Images/ic_app_logo.webp)
 
 ---
 
