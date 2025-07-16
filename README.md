@@ -65,12 +65,17 @@ Make sure the app requests and grants the following permissions:
 ---
 
 ## 📷 Screenshots
+App Logo:
 ![RescueNowApp](Images/ic_app_logo.webp)
+App Home Screen:
 ![App HomeScreen](Images/Output5.jpg)
+App Dailer Screen Of 101,100 and 108
 ![Dailer 101](Images/Output1.jpg)
 ![Dailer 100](Images/Output2.jpg)
 ![Dailer 108](Images/Output4.jpg)
+App Message Output:
 ![Dailer Message](Images/Output3.jpg)
+App Map layout:
 ![Map Output](Images/Output6.jpg)
 
 
