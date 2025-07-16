@@ -1,8 +1,8 @@
 ---
 
-# RescueNowApp 
+# RescueNowApp
 
-**RescueNowApp** is an Android emergency alert application designed especially for rural and urban users to send quick emergency alerts with location via SMS and Firebase. It allows users to trigger emergency actions using buttons or volume keys and helps notify Police, Ambulance, Fire, or a saved contact person.
+**RescueNowApp** is an Android emergency alert application designed to help users—especially in rural and urban areas—quickly send emergency alerts along with their live location via SMS and Firebase. The app can be triggered using on-screen emergency buttons or volume keys, and supports notifications to essential services like Police, Ambulance, Fire, or a saved emergency contact. It is designed to work reliably even in low-connectivity regions.
 
 ---
 
