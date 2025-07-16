@@ -46,7 +46,7 @@
 1. **Clone the Repo**
    ```bash
    git clone https://github.com/swayamprakashm/RescueNowApp.git
-````
+
 
 2. **Open in Android Studio**
 
