@@ -21,6 +21,24 @@
 
 ---
 
+## Screenshots
+
+### App Logo:
+<img src="Images/ic_app_logo.webp" alt="RescueNowApp" width="120"/>
+
+### App Home Screen:
+<img src="Images/Output5.jpg" alt="App HomeScreen" width="350"/>
+
+### Dialer Screens via App (101, 100, 108):
+<img src="Images/Output1.jpg" alt="Dialer 101" width="300"/> <img src="Images/Output2.jpg" alt="Dialer 100" width="300"/> <img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
+
+### App Message Output:
+<img src="Images/Output3.png" alt="Dialer Message" width="350"/>
+
+### App Map Layout:
+<img src="Images/Output6.jpg" alt="Map Output" width="350"/>
+
+---
 ## Technologies Used
 
 - Kotlin
@@ -61,25 +79,6 @@ Make sure the app requests and grants the following permissions:
 * `SEND_SMS`
 * `POST_NOTIFICATIONS` (Android 13+)
 * `FOREGROUND_SERVICE_LOCATION` (Android 14+)
-
----
-
-## Screenshots
-
-### App Logo:
-<img src="Images/ic_app_logo.webp" alt="RescueNowApp" width="120"/>
-
-### App Home Screen:
-<img src="Images/Output5.jpg" alt="App HomeScreen" width="350"/>
-
-### Dialer Screens via App (101, 100, 108):
-<img src="Images/Output1.jpg" alt="Dialer 101" width="300"/> <img src="Images/Output2.jpg" alt="Dialer 100" width="300"/> <img src="Images/Output4.jpg" alt="Dialer 108" width="300"/>
-
-### App Message Output:
-<img src="Images/Output3.png" alt="Dialer Message" width="350"/>
-
-### App Map Layout:
-<img src="Images/Output6.jpg" alt="Map Output" width="350"/>
 
 ---
 
