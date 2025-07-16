@@ -1,5 +1,5 @@
 
-# RescueNowApp
+# RescueNowApp - A Real-Time Emergency Alert System
 
 **RescueNowApp** is an Android emergency alert application designed to help users—especially in rural and urban areas—quickly send emergency alerts along with their live location via SMS and Firebase. The app can be triggered using on-screen emergency buttons or volume keys, and supports notifications to essential services like Police, Ambulance, Fire, or a saved emergency contact. It is designed to work reliably even in low-connectivity regions.
 
@@ -7,21 +7,21 @@
 
 ## Features
 
-- 📍 Real-time GPS Location Sharing
-- 🔘 Emergency Triggers for:
+- Real-time GPS Location Sharing
+- Emergency Triggers for:
   - Police
   - Ambulance
   - Fire Service
   - Contact Person (Custom)
-- 📤 Emergency SMS with Google Maps Location Link
-- 📡 Firebase Integration for Alert Logging
-- 🔊 Volume Button Trigger (Background Service)
-- ✅ Supports Android 13, 14, and 15 (API 33–34)
-- 🔐 Runtime Permissions Handling (SMS, Location, Notifications)
+- Emergency SMS with Google Maps Location Link
+- Firebase Integration for Alert Logging
+- Volume Button Trigger (Background Service)
+- Supports Android 13, 14, and 15 (API 33–34)
+- Runtime Permissions Handling (SMS, Location, Notifications)
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - Kotlin
 - Android Studio (AppCompat + XML UI)
